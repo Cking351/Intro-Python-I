@@ -21,7 +21,7 @@ foo_file.close()
 
 # YOUR CODE HERE
 bar_file = open("bar.txt", "w")
-bar_file.write("This is nothing\n")
+bar_file.write("Look Ma!! I'm making files in python!\n")
 bar_file.close()
 
 bar_file = open("bar.txt", "r")
